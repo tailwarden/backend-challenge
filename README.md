@@ -1,3 +1,5 @@
+<img src="banner.png"/>
+
 ## Backend Engineer - Coding challenge
 
 This test is a part of our hiring process at Oraculi for the Backend Engineer position. It should take you between 1 and 3 hours depending on your experience.
