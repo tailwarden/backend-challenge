@@ -2,11 +2,11 @@
 
 ## Backend Engineer - Coding challenge
 
-This test is a part of our hiring process at Oraculi for the Backend Engineer position. It should take you between 1 and 3 hours depending on your experience.
+This test is a part of our hiring process at Tailwarden for the Backend Engineer position. It should take you between 1 and 3 hours depending on your experience.
 
-**Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter and link of your code repository at [mohamed@oraculi.io](mailto:mohamed@oraculi.io)**
+**Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter and link of your code repository at [mohamed@tailwarden.com](mailto:mohamed@tailwarden.com)**
 
-At Oraculi, we use mainly Golang but you are free to use any modern language/framework you wish. Here are some technologies we are more familiar with: JavaScript, Python, Java, Ruby.
+At Tailwarden, we use mainly Golang but you are free to use any modern language/framework you wish. Here are some technologies we are more familiar with: JavaScript, Python, Java, Ruby.
 
 > Treat this project as if you/we would continue working on this after your assignment: maintainability, scalability, and readability are super important.
 
