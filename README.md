@@ -1,4 +1,4 @@
-<img src="banner.png"/>
+<img src="banner.jpg"/>
 
 ## Backend Engineer - Coding challenge
 
